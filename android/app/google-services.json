@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "919654967122",
+    "firebase_url": "https://epione-6b357.firebaseio.com",
+    "project_id": "epione-6b357",
+    "storage_bucket": "epione-6b357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919654967122:android:a0b4895d1eb23feb",
+        "android_client_info": {
+          "package_name": "com.rnfirebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919654967122-qavmdsp8vjlpl7p4be26bnuobh9p3se1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIZZbpYTCvZ7t_r0f1FIR2uGCQPeeBQ84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
